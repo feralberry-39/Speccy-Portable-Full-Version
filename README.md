@@ -240,4 +240,4 @@ This repository serves as the official landing page for Speccy Portable. The sof
 **Get the most recent version of Speccy Portable today!**
 
 ---
-**Last updated:** 2026-10-08 20:22:18 UTC
+**Last updated:** 2026-10-09 00:50:31 UTC
